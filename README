@@ -1,0 +1,1 @@
+Student Average Project enables the user to select a file, and displays all the charts in different sheets. After they are prompted to choose between the sheets, and they can find the minimum, maximum, and average. A histogram is also created displaying the student grades graphically. Furthermore, also creates/opens a word file displaying all the results from this assignment. 
